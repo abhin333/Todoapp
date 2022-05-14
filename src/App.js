@@ -48,7 +48,7 @@ function App() {
               return removetodo;
 
             }))
-        } className="fas fa-times"></i>
+        } className="fas fa-trash"></i>
           </div>
         
         </div> )
